@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="aula_2.2.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-center="false"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-global="true"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.4885862"
+     inkscape:cx="425.08646"
+     inkscape:cy="367.15877"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showborder="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-others="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Imagem"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="C:\Users\felip\Documents\Alura\cursos\1859 - inkscape\rascunhos logo\Estudo 4.jpg"
+       xlink:href="../../../rascunhos%20logo/Estudo%204.jpg"
+       y="0"
+       x="-2.7755576e-17"
+       width="209.84756"
+       height="297"
+       preserveAspectRatio="none"
+       id="image2413" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Vetor"
+     style="display:inline">
+    <rect
+       ry="0"
+       y="93.753517"
+       x="105.35009"
+       height="0.52745861"
+       width="10.130762"
+       id="rect123"
+       style="fill:#000000;stroke-width:0.916104;stroke-linecap:square" />
+    <rect
+       style="display:inline;fill:#000000;stroke-width:0.916104;stroke-linecap:square"
+       id="rect123-8"
+       width="10.130762"
+       height="0.52745861"
+       x="121.70087"
+       y="93.753517"
+       ry="0" />
+    <rect
+       transform="rotate(90)"
+       ry="0"
+       y="-122.22832"
+       x="93.753517"
+       height="0.52745819"
+       width="10.130762"
+       id="rect123-8-5"
+       style="display:inline;fill:#000000;stroke-width:0.916104;stroke-linecap:square" />
+    <rect
+       style="display:inline;fill:#000000;stroke-width:0.666418;stroke-linecap:square"
+       id="rect155"
+       width="5.3610034"
+       height="0.52745861"
+       x="-122.22832"
+       y="-103.88428"
+       ry="0"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.916104;stroke-linecap:square"
+       id="rect15"
+       width="10.130762"
+       height="0.52745861"
+       x="105.35009"
+       y="93.753517"
+       ry="0" />
+  </g>
+</svg>
