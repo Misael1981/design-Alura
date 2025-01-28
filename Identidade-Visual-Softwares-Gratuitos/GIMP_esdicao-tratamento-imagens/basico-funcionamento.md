@@ -58,6 +58,18 @@ Em Layers (camadas), clicar com o meu botão direito do mouse e vou ir em “Add
 
 <img src="./img/adicionando-camada-alpha.jpg">
 
+## Como inverter camada
+
+Inverter camadas no GIMP é uma técnica útil para criar efeitos visuais interessantes e manipular suas imagens de forma mais criativa. Para inverter uma camada, você pode seguir estes passos básicos:
+
+1. **Selecione a camada**: Na caixa de diálogo de camadas, clique na camada que deseja inverter.
+2. **Acesse o menu "Layer"(camada)**: No menu superior
+3. **Escolha a opção de mudança**: Dentro do menu "Camada", você encontrará opções como "Stack" ou "Pilha". Ao clicar em "Stack", um submenu estará com opções para espelhar a camada horizontal ou verticalmente. Selecione a opção desejada.
+4. **Aplique a transformação**: Ao escolher a opção de modificação, a camada selecionada será imediatamente espelhada.
+
+<img src="./img/inverter-camada.PNG">
+
+
 ## Mudar o tema de visualização do GIMP
 
 Ir em “Edit”, “Preferences”, preferências, e clicar, ele vai me dar um menuzinho flutuante e ir em “Interface” e “Theme”, ou tema. E você repare que o tema que está selecionado é o escuro, o “Dark”, vou trocar, por exemplo, para o “Light”, olha o que vai acontecer, agora o meu GIMP está com uma cor diferente.

@@ -65,7 +65,4 @@ No **Modos de Seleção**, podemos selecionar o modo que queremos que a funciona
 - **Subtrair da seleção atual `Ctrk`**
 - **Fazer intesecção da seleção atual `Shift + Ctrl`**
 
-
-
-
 ### [Menu - GIMP: edição e tratamento de imagens para identidade visual](menu.md)

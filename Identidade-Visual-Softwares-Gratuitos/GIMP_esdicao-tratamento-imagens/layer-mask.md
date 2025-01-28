@@ -1,4 +1,4 @@
-# Layer Mask
+# Layer Mask (máscara de camada)
 
 As **layer masks** (máscaras de camada) são recursos essenciais para que tomemos atitudes não destrutivas no GIMP. Por meio delas preservamos os pixels e as informações originais da camada e podemos, por exemplo, esconder partes de uma imagem sem deletá-las permanentemente. Para isso, a layer mask utiliza um método de representação baseado em informações brancas e pretas: tudo que estiver branco na máscara será visível na camada original, enquanto que o preto indica que a parcela em questão da camada está escondida. É possível ainda usar o cinza, que vai esconder parcialmente o conteúdo.
 
