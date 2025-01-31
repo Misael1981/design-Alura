@@ -24,5 +24,21 @@
 
 - ### [Blend modes](./Blend-modes.md)
 
+- ### [A importância do color grading](./importanciaDoColorGrading.md)
+
+- ### [Curves: Iluminação mais refinada](./iluminacaoMaisRefinada.md)
+
+- ### [Color balance: Ajustando cores](./color-balance.md)
+
+- ### [Decompose: Imagem em preto e branco](./decompose.md)
+
+- ### [Mais tratamentos](./maisTratamentos.md)
+
+- ### [Imagens em preto e branco](./imagensEmPretoEBranco.md)
+
+- ### [Clonando e escondendo elementos](./ferramentaDeClone.md)
+
+- ### [Configurações de clonagem](./clone.md)
+
 
 ## [Voltar ao Menu - Identidade Visual com softwares gratuitos](../menu.md)
