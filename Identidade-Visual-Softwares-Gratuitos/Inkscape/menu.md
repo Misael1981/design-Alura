@@ -1,4 +1,4 @@
-
+# Inkscape: desenvolvendo uma identidade visual
 
 
 ## Fase IntraProjectual
@@ -11,8 +11,28 @@
 
 - ### [Links Úteis](Fase-anteprojectual/links-uteis.md)
 
+- ### [Introdução ao Software](Fase-anteprojectual/introducao-software.md)
+
 ## Criando a Logo
+
+
+- ### [Importando Arquivos](Criando-logo/importando-arquivos.md)
+
+    - ### [O que é a ferramenta Snap?](Criando-logo/ferramenta-snap.md)
+
+    - ### [Criando Camadas](Criando-logo/camadas.md)
 
 - ### [Links Úteis](Criando-logo/atalhos-uteis.md)
 
 - ### [Gerando ideias com o mindmap](Criando-logo/mindmap.md)
+
+- ### [Como aplicar o set Clip](Criando-logo/setClip.md)
+
+
+
+
+
+
+
+
+### [Voltar ao Menu - Identidade Visual com softwares gratuitos](../menu.md)
