@@ -5,12 +5,16 @@
 ## 🚀 Tecnologias
 
 <img align="center" alt="Misael-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-plain.svg" style="filter: invert(1) sepia(9) saturate(0);">
-
+<img align="center" alt="Misael-Inkscape" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-plain.svg" style="filter: invert(1) sepia(9) saturate(0);">
+<img align="center" alt="Misael-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+<img align="center" alt="Misael-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+<img align="center" alt="Misael-JavaScript" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 ## 📚 Temas abordados
 
 - ### [Identidade Visual com softwares gratuitos](./Identidade-Visual-Softwares-Gratuitos/menu.md)
 
+- ### [Arquitetura da Informação](./Arquitetura-Informacao/menu.md)
 
 <h2> 📞 Contato</h2>
 <div> 

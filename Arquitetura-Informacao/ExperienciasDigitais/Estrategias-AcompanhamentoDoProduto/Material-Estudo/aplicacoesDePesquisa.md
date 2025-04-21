@@ -1,0 +1,14 @@
+# Dicas de aplicação de pesquisa
+
+Existem alguns pontos importantes a serem observados no momento de realizar o teste para que possamos garantir que os resultados serão confiáveis e seguros:
+
+1. **Sempre explique o motivo da pesquisa**: dentro do possível, procure indicar para as pessoas o porquê da pesquisa estar sendo realizada e como elas podem te ajudar através da participação delas. Existem algumas informações que não podem ser compartilhadas, por conta do sigilo da empresa, por isso sempre reflita como você explicará o motivo do teste para as pessoas usuárias.
+2. **Assegure (e garanta) que os dados serão utilizados apenas para motivos de pesquisa e estarão protegidos**: um dos maiores medos entre as pessoas usuárias é em questão da segurança de seus dados. Esse é um grande impeditivo para diversos grupos de participantes, por isso precisamos assegurar que tudo está protegido segundo a lei e que não será utilizado para identificá-los.
+3. **Você pode auxiliar, mas evite dar as respostas**: as pessoas usuárias podem se sentir perdidas ou em dúvida ao longo do teste. O trabalho da pessoa moderadora é auxiliar essas pessoas através de pequenas orientações, assim elas podem continuar o teste com tranquilidade. Porém, ajudar é diferente de fornecer respostas. Essa ação pode enviesar os dados e torná-los incompatíveis com a realidade. Por exemplo: se a pessoa não conhece o caminho certo por onde ir, ao invés de indicar a resposta esperada pela equipe, você pode orientá-la a retornar do início, tentar novamente ou pular para a próxima tarefa, reforçando que não há certo e nem errado nos testes.
+4. **Preste sempre atenção aos detalhes**: se o teste for com presença de uma pessoa moderadora da equipe, é importante sempre estar atento(a) às reações de quem estiver participando. Se você escutar a pessoa falar algo, ou perceber alguma expressão de confusão ao acessar uma tela, é importante anotar.
+5. **Uma boa introdução é essencial**: o momento de apresentação e explicação do teste é um dos mais importantes, pois é quando a pessoa participante receberá as orientações de como o procedimento deve ser feito. Uma boa introdução no início garante que o teste seja mais fluído e com menos momentos de confusão.
+
+Cuidado com a escrita das tarefas: em um questionário, as perguntas bem estruturadas garantem respostas mais claras. A mesma lógica se aplica às tarefas de um Teste de Usabilidade! Se estiverem bem escritas, serão ótimas para que as pessoas participantes entendam exatamente o que fazer e diminui as chances de erro devido a má-compreensão do que deve ser feito.
+Essas são apenas algumas dicas, mas existem pontos que você aprenderá ao longo da aplicação dos testes. É como diz o famoso ditado: “a prática leva à perfeição”. Quanto mais você praticar, melhores formas de moderar um teste você consegue encontrar.
+
+### [Voltar ao Menu - Arquitetura da Informação: estratégias e acompanhamento do produto](../menu.md)

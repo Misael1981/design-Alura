@@ -4,4 +4,6 @@
 
 - ### [Curso - Arquitetura da Informação: projetando para dispositivos móveis e e-commerces](./ProjetandoParaMobile/menu.md)
 
-### [Voltar ao Readme Principal](../README.md)
+- ### [Curso - Arquitetura da Informação: estratégias e acompanhamento do produto](./Estrategias-AcompanhamentoDoProduto/menu.md)
+
+### [Voltar ao Menu - Arquetetura da Informação](../menu.md)
