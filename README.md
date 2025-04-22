@@ -16,6 +16,11 @@
 
 - ### [Arquitetura da Informação](./Arquitetura-Informacao/menu.md)
 
+- ### [UI Design para Devs](./UI-Designer-para-Devs/menu.md)
+
+  - ### [Deploy do Meteora, projeto da formação](https://loja-meteora-five.vercel.app/)
+    - ### [Código do projeto](https://github.com/Misael1981/Loja-Meteora)
+
 <h2> 📞 Contato</h2>
 <div> 
   <a href="https://instagram.com/misaelvborges" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
